@@ -15,4 +15,4 @@ python Numpy_LR_train.py
 
 ## Output Binary Classification Accuracy Plot
 
-![alt text]( https://github.com/shar032/Numpy-Logistic-Regression/tree/main/images/LR_Plots.png)
+![Alt text](/images/LR_plots.png)
