@@ -15,4 +15,4 @@ python Numpy_LR_train.py
 
 ## Output Binary Classification Accuracy Plot
 
-![Alt text](/images/LR_plots.png)
+![Alt text](/images/LR_plots.png) 
