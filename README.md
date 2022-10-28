@@ -13,3 +13,6 @@ Regularized Logistic Regression in Numpy for Binary Classification of Material P
 python Numpy_LR_train.py 
 ```
 
+## Output Binary Classification Accuracy Plot
+
+![alt text]( https://github.com/shar032/Numpy-Logistic-Regression/tree/main/images/LR_Plots.png)
