@@ -14,8 +14,8 @@ X = [[1, x1[i], x2[i], x3[i], x4[i], x5[i], x6[i], x7[i], x8[i], x9[i]] for i in
 
 # define hyperparameters
 m = len(x1)
-lmbda = 0.07
-lr = 0.1
+lmbda = 0.07 # L2 regularization factor 
+lr = 0.1 # learning rate
 num_epochs = 200
 validation_size = 70 
 
